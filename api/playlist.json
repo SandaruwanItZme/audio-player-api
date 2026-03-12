@@ -1,0 +1,22 @@
+{
+  "name": "Janaka Heshan's Playlist",
+  "description": "My favorite tracks",
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Track 1",
+      "artist": "Janaka Heshan",
+      "src": "https://yourusername.github.io/audio-player-api/songs/abc.mp3",
+      "duration": "3:30",
+      "art": "https://via.placeholder.com/50/667eea/ffffff?text=Track+1"
+    },
+    {
+      "id": 2,
+      "title": "Track 2",
+      "artist": "Janaka Heshan",
+      "src": "https://yourusername.github.io/audio-player-api/songs/xyz.mp3",
+      "duration": "4:00",
+      "art": "https://via.placeholder.com/50/764ba2/ffffff?text=Track+2"
+    }
+  ]
+}
